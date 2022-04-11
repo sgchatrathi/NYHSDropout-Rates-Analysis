@@ -1,16 +1,16 @@
-## Drop Out Rates in New York State
+# Drop Out Rates in New York State
 By: Samira Chatrathi
 
 
 
 
 
-# Business Understanding
+## Business Understanding
 
-# Data Understanding
+## Data Understanding
 
-# Modeling Process
+## Modeling Process
 
-# Final Model 
+## Final Model 
 
-# Conclusion
+## Conclusion
