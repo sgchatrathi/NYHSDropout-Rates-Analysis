@@ -14,8 +14,10 @@ The New York State Education Department deems their mission as a government orga
 
 The data set I chose to analyze was from the New York State Education Department’s report card dataset. I chose to stack the report cards within the years of 2013-2017. I began by combining the demographic and associated percentage dropout reports for each year and then stacked the years on top of each other to act as an accumulation of multiple years.  One of the important things I considered when choosing this time frame for my dataset was that school report cards carry heavy weight on how schools will function after the pandemic subsides. Board members can use this past information based on fully opened schools to understand how they can implement new strategies once schools fully re-open. In terms of my exploratory data analysis, I wanted to categorize the dropout rates into three categories. Dropout rates as well as other demographic factors were given in percentages, so it standardized the values for my dataset on all fronts (values took between 0-100%). After all data cleaning (dropping null-values,etc.) and feature engineering was conducted, the final dataset contained 66,198 school entries, over the span of 4 years. Based on initial EDA, I found that the average dropout rate for my dataset was 6%. I binned my target variable based on the risk level associated with the percentage dropout rate. Within the dataset, the target variable was split into 3 classes of “Low-Risk”, “Mid-Risk”, and “High-Risk”. 53% of the entries were categorized as Low-Risk, 31% of the entries were categorized as Mid-Risk, and 16% of the entries were categorized High-Risk, where the percentage of dropout rate was higher than the 75th percentile of dropout rates within the dataset. One limitation to consider from our dataset is how holistic the demographic information is. While students do fall into a wide range of demographic levels, there are always minority groups that are not accounted for.
 
-## Modeling Process
+## Methods
 
-## Final Model 
+## Evaluation
+
+## Key Takeaways
 
 ## Conclusion
