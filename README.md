@@ -4,6 +4,9 @@ By: Samira Chatrathi
 ## Overview
 The education system is one of the most life changing organizations within the American government. Due to education’s ability to encourage growth and pave the way for future careers, Americans must trust the systems set in place. In recent years, however, High School dropout rates have increased due to a wide range of different risk factors. In this project, I classify dropout rates into risk-levels as a means of predicting which subgroups are at different tiers of risk level. Educators can use this modeling process as a means of helping students within different risk categories hone their skills and obtain the maximum benefit from their public education systems. 
 
+## Navigating the Repository
+The process of modeling can be found in the [drop out rates main notebook](https://github.com/sgchatrathi/doratecapstone/blob/main/Dropout%20Rates%20Main%20Notebook.ipynb). All EDA as well as the First simple model can be found under [EDA and First Simple Model notebook](https://github.com/sgchatrathi/doratecapstone/blob/main/EDA%20and%20First%20Simple%20Model.ipynb). The Presentation can also be found under [SGC Data Science Capstone](https://github.com/sgchatrathi/doratecapstone/blob/main/SGC%20Data%20Science%20Capstone.pdf).
+
 
 ## Business Understanding
 
