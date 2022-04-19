@@ -60,3 +60,13 @@ This modeling project is just the beginning to the long and iterative process of
   1. Iterate this initial model by incorporating a mental health feature that determines the status of overall mental health for students          within the school.
   2. Implement the High School Risk Survey that examines risk behaviors such as smoking, alcohol/drug use, and eating disorders.
   3. Monitor changes in dropout rates compared to that of an online learning environment
+
+## Repo Tree
+```
+├── README.md                        <- The top-level README for reviewers of this project
+├── microsoft_movie_analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
+├── movie_analysis_slides.pdf        <- PDF version of project presentation
+├── movie_notebook.pdf               <- PDF version of Jupyter notebook
+├── data                             <- Both sourced externally and generated from code
+└── images                           <- Both sourced externally and generated from code
+```
