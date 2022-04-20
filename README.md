@@ -56,17 +56,17 @@ Based on the modeling process which can be found in the main notebook, I have ga
   3. The board of education should monitor high risk schools and send in department chairs to assess with faculty and staff as to how to better support          students while rebuilding foundational tools for all students. 
 
 ## Conclusion and Future Research
-This modeling project is just the beginning to the long and iterative process of helping the education system. As we work as a community to support students from all backgrounds we should consider more factors that would potentially effect the direction of students in the public school system. I have three main considerations for future research:
+This modeling project is just the beginning to the long and iterative process of helping the education system. As we work as a community to support students from all backgrounds we should consider more factors that would potentially affect the direction of students in the public school system. I have three main considerations for future research:
   1. Iterate this initial model by incorporating a mental health feature that determines the status of overall mental health for students          within the school.
   2. Implement the High School Risk Survey that examines risk behaviors such as smoking, alcohol/drug use, and eating disorders.
   3. Monitor changes in dropout rates compared to that of an online learning environment
 
 ## Repo Tree
 ```
-├── README.md                        <- The top-level README for reviewers of this project
-├── microsoft_movie_analysis.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── movie_analysis_slides.pdf        <- PDF version of project presentation
-├── movie_notebook.pdf               <- PDF version of Jupyter notebook
+├── data                             <- data folder
+├── data                             <- data folder
+├── Dropout Rates Main Notebook      <- Main Notebook
+├── Exploratory Data and FSM         <- Jupyter Notebook containing First Simple Model
 ├── data                             <- Both sourced externally and generated from code
-└── images                           <- Both sourced externally and generated from code
+└── README.md                        <- The top-level README for reviewers of this project
 ```
