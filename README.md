@@ -64,9 +64,9 @@ This modeling project is just the beginning to the long and iterative process of
 ## Repo Tree
 ```
 ├── data                             <- data folder
-├── data                             <- data folder
+├── gitignore                        <- gitignore
 ├── Dropout Rates Main Notebook      <- Main Notebook
 ├── Exploratory Data and FSM         <- Jupyter Notebook containing First Simple Model
-├── data                             <- Both sourced externally and generated from code
-└── README.md                        <- The top-level README for reviewers of this project
+├── README.md                        <- The top-level README for reviewers of this project
+└── SGC Data Science Capstone        <- Presentation PDF
 ```
